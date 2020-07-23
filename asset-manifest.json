@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactdataclient/static/css/main.cb79f25a.chunk.css",
-    "main.js": "/reactdataclient/static/js/main.26d22aa5.chunk.js",
-    "main.js.map": "/reactdataclient/static/js/main.26d22aa5.chunk.js.map",
+    "main.js": "/reactdataclient/static/js/main.0094803e.chunk.js",
+    "main.js.map": "/reactdataclient/static/js/main.0094803e.chunk.js.map",
     "runtime-main.js": "/reactdataclient/static/js/runtime-main.2f0fe440.js",
     "runtime-main.js.map": "/reactdataclient/static/js/runtime-main.2f0fe440.js.map",
     "static/css/2.6d92adba.chunk.css": "/reactdataclient/static/css/2.6d92adba.chunk.css",
     "static/js/2.0332d558.chunk.js": "/reactdataclient/static/js/2.0332d558.chunk.js",
     "static/js/2.0332d558.chunk.js.map": "/reactdataclient/static/js/2.0332d558.chunk.js.map",
     "index.html": "/reactdataclient/index.html",
-    "precache-manifest.1078c07de1bae259a5c3f3a380e2954a.js": "/reactdataclient/precache-manifest.1078c07de1bae259a5c3f3a380e2954a.js",
+    "precache-manifest.a0c5645eb05bf37149e6e101c628e189.js": "/reactdataclient/precache-manifest.a0c5645eb05bf37149e6e101c628e189.js",
     "service-worker.js": "/reactdataclient/service-worker.js",
     "static/css/2.6d92adba.chunk.css.map": "/reactdataclient/static/css/2.6d92adba.chunk.css.map",
     "static/css/main.cb79f25a.chunk.css.map": "/reactdataclient/static/css/main.cb79f25a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6d92adba.chunk.css",
     "static/js/2.0332d558.chunk.js",
     "static/css/main.cb79f25a.chunk.css",
-    "static/js/main.26d22aa5.chunk.js"
+    "static/js/main.0094803e.chunk.js"
   ]
 }
